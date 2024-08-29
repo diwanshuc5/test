@@ -20,7 +20,8 @@ function App() {
           Learn React
         </a>
       </header> 
-      <ProductGrid />*/}
+      <ProductGrid />
+      goo daddy*/}
       <h1>FRESH Farm Products</h1>
       <ProductGrid/>
     </div>
